@@ -1,5 +1,4 @@
-ght:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rutvik Makvana</h1>
 
@@ -54,9 +53,7 @@ ght:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons
     <a href="https://github.com/RutvikMakvana4/github-readme-stats"><img alt="Rutvik Makvana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutvikMakvana4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/RutvikMakvana4/github-readme-stats"><img alt="Rutvik Makvana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutvikMakvana4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+ 
 <br/>
 <br/>
 
