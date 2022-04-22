@@ -44,15 +44,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rutvik Makvana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RutvikMakvana4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-                                                                                                                                                                      <p dir="auto">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/604303c2c8bbe128db07bf1bde087e8e5af7bb24a8555be02734b958691d62d5/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616e756a76616768616e6930" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=RutvikMakvana4" style="max-width: 100%;"></a></p>
-                                                                                                     
-                                                                                                     
+                                                                                                 
  
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/RutvikMakvana4/github-readme-stats"><img alt="Rutvik Makvana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutvikMakvana4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
   <a href="https://github.com/RutvikMakvana4/github-readme-stats"><img alt="Rutvik Makvana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutvikMakvana4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
