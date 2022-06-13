@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" height="100px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Rutvik Makvana</h1>
+<h1 align="center">Hi, I'm Rutvik Makvana</h1>
 
 
 ## 🙋‍♂️ About Me
